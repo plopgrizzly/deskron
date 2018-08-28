@@ -1,0 +1,9 @@
+[package]
+name = "ograc"
+version = "0.0.1"
+authors = [
+	"Jeron Lau <jeron.lau@plopgrizzly.com>"
+]
+
+[dependencies]
+adi = "0.10"
